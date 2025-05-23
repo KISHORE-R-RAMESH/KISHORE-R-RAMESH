@@ -5,11 +5,13 @@
 
 - 🌱 I’m learning **React, Node.js, java**
 
+- ✅ JLPT N4 – Completed
+  
+- 📚 JLPT N3 – Currently studying
+
 - 👨‍💻 All of my projects are available at [My GitHub]((https://github.com/KISHORE-R-RAMESH))
 
 - 📫 How to reach me: **rameshkishore110@gmail.com**
-
-- ⚡ Fun fact: I love coding and solving real-world problems through technology!
 
 
 ### 🛠️ Languages and Tools:
