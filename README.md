@@ -37,6 +37,6 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kishore--ramesh/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore--ramesh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://kishore-ramesh.my.canva.site/)
 
