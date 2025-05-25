@@ -5,6 +5,8 @@
 
 - 🌱 I’m learning **React, Node.js, java**
 
+- Tools - IBM Cloud, SPSS Modeler
+
 - ✅ JLPT N4 – Completed
   
 - 📚 JLPT N3 – Currently studying
