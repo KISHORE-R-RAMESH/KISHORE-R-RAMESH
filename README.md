@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
+<h1 align="center">Hi 👋, I'm KISHORE R</h1>
 <h3 align="center">A passionate B.Tech AI & ML student and aspiring Software Engineer</h3>
 
 - 🔭 I’m currently working on **Livestock Management System**
